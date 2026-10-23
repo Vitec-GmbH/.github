@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://vitec-visual.com">Website</a> &middot;
-  <a href="https://vitec-visual.com/360-stories">Case studies</a> &middot;
+  <a href="https://vitec-visual.com/case-studies">Case studies</a> &middot;
   <a href="https://vitec-visual.com">Contact</a>
 </p>
 
