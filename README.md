@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Replace with the logo file once uploaded to the .github repo, e.g. profile/assets/vitec-logo.svg -->
-  <img src="profile/assets/vitec-logo.svg" alt="Vitec GmbH" width="160" />
+  <img src="profile/assets/vitec-logo.png" alt="Vitec GmbH" width="160" />
 </p>
 
 <h1 align="center">Vitec GmbH</h1>
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://vitec-visual.com">Website</a> &middot;
-  <a href="https://vitec-visual.com/360-stories">Case studies</a> &middot;
+  <a href="https://vitec-visual.com/case-studies">Case studies</a> &middot;
   <a href="https://vitec-visual.com">Contact</a>
 </p>
 
@@ -74,4 +74,3 @@ Small, production-style examples written from scratch by our team:
 
 Planning a new product or need a team to take over an existing one?
 Visit [vitec-visual.com](https://vitec-visual.com) and tell us about your project.
-"# .github" 
