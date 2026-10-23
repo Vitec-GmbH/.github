@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Replace with the logo file once uploaded to the .github repo, e.g. profile/assets/vitec-logo.svg -->
-  <img src="profile/assets/vitec-logo.png" alt="Vitec GmbH" width="160" />
+  <img src="/profile/assets/vitec-logo.png" alt="Vitec GmbH" width="160" />
 </p>
 
 <h1 align="center">Vitec GmbH</h1>
